@@ -14,4 +14,6 @@ Fruit Detection and Counting
 
  https://www.youtube.com/watch?v=mr8Y_Nuxciw
  
+ - AI & Machine Learning - Fruit Detection : https://youtu.be/8VCk9BiQIN4
+ 
 
