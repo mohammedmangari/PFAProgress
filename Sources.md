@@ -1,5 +1,5 @@
 Count the number of on tree fruits.
-    https://github.com/Ankuvaidya/Count-number-of-on-tree-fruits--Python
+    ![Count-number-of-on-tree-fruits](https://github.com/Ankuvaidya/Count-number-of-on-tree-fruits--Python)
     
 Detect fruits on a tree such as a lemon.
     https://www.youtube.com/watch?v=PCJZLUA6nWw&list=PLXovS_5EZGh4RTfGEpOzHKl63jsgUIqVS&index=4
