@@ -9,3 +9,8 @@ A Comparative Study of Fruit Detection and Counting Methods for Yield Mapping in
     
 Fruit Detection and Counting
     ![Detect and count](https://github.com/HaochenQ/Fruit-Recognition-and-Counting)
+
+![Object Detector Training Git](https://github.com/jaspereb/Retinanet-Tutorial)
+![Object Detector Training Youtube](https://www.youtube.com/watch?v=mr8Y_Nuxciw)
+ 
+
