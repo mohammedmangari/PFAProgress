@@ -27,4 +27,4 @@ Fruit Detection and Counting
    - Deep learning Project: Image recognition Project using Tensor flow : https://youtu.be/ZTCoMo_gDYo
 
 
-   - Le système de vision par ordinateur est prometteur avec la gestion de la charge de récolte : https://www.youtube.com/watch?v=Yq7Xwkn5yDI
+   - Computer vision system shows promise with harvest load management : https://www.youtube.com/watch?v=Yq7Xwkn5yDI
