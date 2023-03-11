@@ -31,3 +31,5 @@
 - How to collect Images for Deep Learning Project? | Custom Image Dataset for Machine Learning : https://youtu.be/solASfMs89Q
 
 - Plant Disease Detection using Keras : https://www.kaggle.com/code/emmarex/plant-disease-detection-using-keras/notebook
+
+- Build a Deep CNN Image Classifier with ANY Images : https://youtu.be/jztwpsIzEGc
