@@ -30,3 +30,5 @@ Fruit Detection and Counting
    - Computer vision system shows promise with harvest load management : https://www.youtube.com/watch?v=Yq7Xwkn5yDI
    
    - Awesome Semantic Segmentation : https://github.com/mrgloom/awesome-semantic-segmentation
+
+    - How to collect Images for Deep Learning Project? | Custom Image Dataset for Machine Learning : https://youtu.be/solASfMs89Q
