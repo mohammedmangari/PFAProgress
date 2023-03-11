@@ -18,3 +18,7 @@ Fruit Detection and Counting
  - Detection and counting of oranges with object detection : https://youtu.be/5qdvD4PhW7Y
  
 
+ - Cotton Plant Disease Prediction : https://keras.io/api/applications/    ||   https://www.youtube.com/watch?v=ziaRDsNf0KU
+                                    
+                                    
+  - Image Super-Resolution using an Efficient Sub-Pixel CNN :  https://keras.io/examples/vision/super_resolution_sub_pixel/
