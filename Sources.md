@@ -12,16 +12,19 @@ Fruit Detection and Counting
 
 ![Object Detector Training Git](https://github.com/jaspereb/Retinanet-Tutorial)
 
- https://www.youtube.com/watch?v=mr8Y_Nuxciw
+  - https://www.youtube.com/watch?v=mr8Y_Nuxciw
  
- - AI & Machine Learning - Fruit Detection : https://youtu.be/8VCk9BiQIN4
- - Detection and counting of oranges with object detection : https://youtu.be/5qdvD4PhW7Y
+  - AI & Machine Learning - Fruit Detection : https://youtu.be/8VCk9BiQIN4
+  - Detection and counting of oranges with object detection : https://youtu.be/5qdvD4PhW7Y
  
 
- - Cotton Plant Disease Prediction : https://keras.io/api/applications/    ||   https://www.youtube.com/watch?v=ziaRDsNf0KU
+  - Cotton Plant Disease Prediction : https://keras.io/api/applications/    ||   https://www.youtube.com/watch?v=ziaRDsNf0KU
                                     
                                     
   - Image Super-Resolution using an Efficient Sub-Pixel CNN :  https://keras.io/examples/vision/super_resolution_sub_pixel/
 
 
    - Deep learning Project: Image recognition Project using Tensor flow : https://youtu.be/ZTCoMo_gDYo
+
+
+   - Le système de vision par ordinateur est prometteur avec la gestion de la charge de récolte : https://www.youtube.com/watch?v=Yq7Xwkn5yDI
